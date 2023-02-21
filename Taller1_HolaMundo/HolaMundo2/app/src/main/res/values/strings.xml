@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Hola Mundo</string>
+    <string name="second_fragment_label">Mi información</string>
+    <string name="next">Para conocer mi informacion</string>
+    <string name="previous">Vuelve al hola mundo</string>
+    <string name="hello_first_fragment">Hola Mundo</string>
+    <string name="hello_second_fragment">Mi nombre es leonardo</string>
+</resources>
